@@ -12,7 +12,7 @@ set completeopt=preview
 set laststatus=2
 set spelllang=en_us
 set encoding=utf-8
-colorscheme elflord
+colorscheme desert
 
 nnoremap ; A;<Esc>
 
